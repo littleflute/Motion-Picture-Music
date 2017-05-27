@@ -1,0 +1,16 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Rock and Roll, Hoochie Koo.mp3";		
+f[2]	= "02 Slow Ride.mp3";		
+f[3]	= "03 School's Out.mp3";		
+f[4]	= "04 Jim Dandy.mp3";		
+f[5]	= "05 Tush.mp3";		
+f[6]	= "06 Love Hurts.mp3";		
+f[7]	= "07 Stranglehold.mp3";		
+f[8]	= "08 Cherry Bomb.mp3";		
+f[9]	= "09 Fox on the Run.mp3";		
+f[10]	= "10 Low Rider.mp3";		
+f[11]	= "11 Tuesday's Gone.mp3";		
+f[12]	= "12 Highway Star.mp3";		
+f[13]	= "13 Rock and Roll All Nite.mp3";		
+f[14]	= "14 Paranoid.mp3";		
